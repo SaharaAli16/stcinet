@@ -1,4 +1,4 @@
-This repository contains code for the 3 baseline methods we implemented to comapre our work with. 
+This repository contains our code for the 3 baseline methods we implemented to compare our work with. The original source code can be accessed at the respective paper URLs. 
 
 1. G-Net (Time Series Causal Inference)
 Li, Rui, et al. "G-net: a recurrent network approach to g-computation for counterfactual prediction under a dynamic treatment regime." Machine Learning for Health. PMLR, 2021.
